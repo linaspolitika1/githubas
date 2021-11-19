@@ -47,3 +47,10 @@ span{
 .child:nth-child(3){
     height: 350px;
 }
+a{
+    position: relative;
+    background-color: springgreen;
+    padding: 15px;
+    border-radius: 5px;
+    transition:0.3s;
+}
