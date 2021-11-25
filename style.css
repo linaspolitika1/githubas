@@ -155,8 +155,28 @@ input{
     text-align: center;
     color: rgb(117, 117, 115);
 }
-
-
+.contents{
+    height: 300px;
+}
+/* footer */
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background: rgb(235, 235, 231);
+}
+footer h3{
+    word-spacing: 10px;
+    color: #3b80ca;
+    font-size: medium;
+}
+footer p{
+    color: rgb(151, 147, 147);
+}
+footer img{
+    margin: 10px;
+}
 
 /* Media-queries */
 
